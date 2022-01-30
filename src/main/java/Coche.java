@@ -26,4 +26,8 @@ public class Coche {
     public Coche() {
 
     }
+
+    public Coche() {
+
+    }
 }
